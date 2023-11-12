@@ -1,18 +1,21 @@
+/* no change */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+ /* standardise the font-family and font-size for the whole script in one body section, and reset a background color */
 body {
-    background-color: #d9dcd6;
-    font-size: 16px;
+    background-color: rgb(222, 225, 231);
+    font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+/* adjust the padding down, remove the font-family, reset a background-color, justify-content to have space-between, and align items to the centre for header */
 .header {
-    padding: 20px;
-    background-color: #2a607c;
+    padding: 10px;
+    background-color: #b5bdc5;
     color: #ffffff;
     overflow: hidden;
     display: flex;
@@ -20,6 +23,7 @@ body {
     align-items: center;
 }
 
+/* add a navigation section for the three sections */
 .navigation ul {
     list-style-type: disc;
     padding: 0;
@@ -28,23 +32,26 @@ body {
 }
 
 .navigation li {
-    margin-left: 50px;
+    margin-left: 30px;
 }
 
 .navigation a {
-    color: #ffffff;
-    text-decoration: aqua;
+    color: #080808;
+    text-decoration: rgb(233, 237, 237);
 }
 
+/* adjust font-size */
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 50px;
 }
 
+/* change color */
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #0e0e0e;
 }
 
+/* remove font family */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -52,6 +59,7 @@ body {
     font-size: 20px;
 }
 
+/* add flex for display and justify content to the centre */
 .header div ul {
     list-style-type: none;
     display: flex;
@@ -63,17 +71,21 @@ body {
     margin-left: 25px;
 }
 
+/* style anchor with font-weight */
 a {
     color: #ffffff;
     text-decoration: none;
+    font-weight: bold;
 }
 
+/* provide a font-size and color for p */
 p {
-    font-size: 16px;
+    font-size: 18px;
+    color: rgb(72, 67, 67);
 }
 
 .hero {
-    height: 600px;
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
@@ -81,66 +93,80 @@ p {
     background-position: center;
 }
 
+/* reduce the margin */
 .float-left {
     float: left;
     margin-right: 20px;
 }
 
+/* reduce the margin */
 .float-right {
     float: right;
     margin-left: 20px;
 }
 
+/* reduce the left margin and add a right margin */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 10px;
-    margin-right: 5px;
+    margin-right: 20px;
 }
 
+/* reduce the margin and padding, remove the font-family, reset colour */
 .benefits {
-    margin-left: 20px;
-    padding: 20px;
+    margin-left: 10px;
+    padding: 10px;
     clear: both;
-    float: left;
+    float: right;
     width: 20%;
     height: 100%;
-    background-color: #2589bd;
+    background-color: #C7CED5;
 }
 
+/* consolidate the benefit */
 .benefit {
-    margin-bottom: 30px;
-    color: #ffffff;
+    margin-bottom: 50px;
+    color: black;
+    font-weight: lighter;
 }
 
+/* consolidate the benefit with h3 */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-weight: lighter;
 }
 
+/* consolidate the benefit with img */
 .benefit img {
     display: block;
-    margin: 10px auto;
-    max-width: 150px;
+    margin: 15px auto;
+    max-width: 110px;
 }
 
+/* consolidate all the three services into one */
 .service {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     padding: 50px;
     height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
+    background-color: #C7CED5;
+    color: black;
 }
 
+/* consolidate the services with image into one */
 .service img {
-    max-height: 220px;
+    max-height: 230px;
 }
 
+/* consolidate the services with h2 into one*/
 .service h2 {
     margin-bottom: 30px;
-    font-size: 40px;
+    font-size: 45px;
+    font-weight: lighter;
 }
 
+/* remove the font-family */
 .footer {
     padding: 30px;
     clear: both;
@@ -148,6 +174,6 @@ p {
 }
 
 .footer h2 {
-    font-size: 10px;
+    font-size: 20px;
 }
 
