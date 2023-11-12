@@ -113,7 +113,7 @@ p {
     margin-right: 20px;
 }
 
-/* reduce the margin and padding, remove the font-family, reset colour */
+/* reduce the margin and padding, remove the font-family, reset colour to increase contrast */
 .benefits {
     margin-left: 10px;
     padding: 10px;
@@ -145,7 +145,7 @@ p {
     max-width: 110px;
 }
 
-/* consolidate all the three services into one */
+/* consolidate all the three services into one, reset colour to increase contrast */
 .service {
     margin-bottom: 10px;
     padding: 50px;

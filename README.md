@@ -6,7 +6,7 @@ The repository:
 
 This is a refactor project aimed to give a webpage a makeover, paying special attention to how the html and css are written, so that the website increases accessibility. 
 
-It is essential to have codes that are semantically correct and explicit, in logical order, structure and sequence. This is done through going through the codes to see if there are repetitions, or if better elements could be used instead, or that if image elements contain alt attributes.  
+It is essential to have codes that are semantically correct and explicit, in logical order, structure and sequence. A highly semantic webpage allows data to be shared and sustained across platforms. This is done through going through the codes to see if there are repetitions, or if better elements could be used instead, or that if image elements contain alt attributes.  
 
 Enhancing accessibility is a huge motivation as web developer, as it helps people with disabilities to access the web pages with little or no hindrance, and makes the website in a better standing for search engines. Making sure all links work also helps to make the webpage to sustain its utility in the long run. 
 
