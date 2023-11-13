@@ -4,13 +4,11 @@
 
 The repository: 
 
-This is a refactor project aimed to give a webpage a makeover, paying special attention to how the html and css are written, so that the website increases accessibility. 
+The Horiseon Makeover project is a refactoring endeavor focused on transforming a webpage to enhance its accessibility. The primary goal is to ensure the HTML and CSS codebase is semantically correct, logically structured, and in a sequence that promotes data sharing and sustainability across various platforms.
 
-It is essential to have codes that are semantically correct and explicit, in logical order, structure and sequence. A highly semantic webpage allows data to be shared and sustained across platforms. This is done through going through the codes to see if there are repetitions, or if better elements could be used instead, or that if image elements contain alt attributes.  
+Key considerations in this makeover include identifying and eliminating code repetitions, optimizing the use of HTML elements, and ensuring that image elements incorporate meaningful alt attributes. The overarching motivation is to improve accessibility, enabling people with disabilities to navigate the web pages seamlessly while also enhancing the website's search engine standing. Ensuring all links function correctly is another essential aspect to guarantee the webpage's long-term utility.
 
-Enhancing accessibility is a huge motivation as web developer, as it helps people with disabilities to access the web pages with little or no hindrance, and makes the website in a better standing for search engines. Making sure all links work also helps to make the webpage to sustain its utility in the long run. 
-
-This project is built with such intention and motivation in mind, to transform the below attached webpage into something much more accessible. 
+This project is driven by the intention to elevate the accessibility of the provided webpage through thoughtful code enhancements.
 
 ```md
  ![Alt text](image-1.png)
@@ -27,7 +25,7 @@ Link to the deployed application: https://zhaolucas.github.io/horiseon-reinventi
 
 ## Installation
 
-To get the development environment running, one has to load the html and css file into vs code editor, along with the readme. Changes are to be commited through the git commands on the terminal to github. 
+To set up the development environment, load the HTML and CSS files into a VS Code editor along with the README. Use Git commands in the terminal to commit changes to GitHub.
 
 ## Usage 
 
