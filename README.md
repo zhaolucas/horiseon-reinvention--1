@@ -10,9 +10,7 @@ Key considerations in this makeover include identifying and eliminating code rep
 
 This project is driven by the intention to elevate the accessibility of the provided webpage through thoughtful code enhancements.
 
-```md
  ![Alt text](image-1.png)
- ```
 
 Link to the deployed application: https://zhaolucas.github.io/horiseon-reinvention-primero/
 
@@ -29,23 +27,32 @@ To set up the development environment, load the HTML and CSS files into a VS Cod
 
 ## Usage 
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+[Alt text](<assets/Screenshot 2023-11-13 at 21.48.52.png>)
+
 ## Credits
+
+TA 
+Instructor 
+W3 Schools
 
 ## License
 
+NIL 
+
 ## Badges
+
+NA 
 
 ## Features
 
+The webpage allows for SEO maximization. 
 
 ## Contributing
 
+Please contribute direclty as you wish. 
+
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
-
+All links, images and alt texts open. 
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
