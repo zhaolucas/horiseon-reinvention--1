@@ -27,7 +27,7 @@ To set up the development environment, load the HTML and CSS files into a VS Cod
 
 ## Usage 
 
-[Alt text](<assets/Screenshot 2023-11-13 at 21.48.52.png>)
+![Alt text](<assets/Screenshot 2023-11-13 at 21.48.52.png>)
 
 ## Credits
 
